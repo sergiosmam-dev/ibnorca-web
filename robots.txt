@@ -1,0 +1,53 @@
+user-agent:*
+
+Disallow: /auth
+Disallow: /dashboard
+Disallow: /apiibnorca
+Disallow: /backendibnorca
+Disallow: /backendinicio
+Disallow: /backendnormalizacion
+Disallow: /backendnosotros
+Disallow: /backendsoluciones
+Disallow: /backenddelete
+Disallow: /backendinsert
+Disallow: /backendupdate
+Disallow: /backendselect
+Disallow: /backendprofile
+
+Allow: /index
+Allow: /nosotros
+Allow: /nosotros/proyectosinternacionales
+Allow: /nosotros/afiliaciones
+Allow: /nosotros/acreditaciones
+Allow: /ibnored/trabaja-con-nosotros
+Allow: /nosotros/contacto
+Allow: /nosotros/quejas
+
+Allow: /normalizacion/normalizacion
+Allow: /normalizacion/desarrolloDeNormas
+Allow: /normalizacion/comitesDeNormalizacion
+Allow: /normalizacion/especificacionesTecnicas
+Allow: /normalizacion/fortalecimientoPoliticasPublicas
+Allow: /normalizacion/laAcademiayLasNormas
+Allow: /normalizacion/ibnoteca
+Allow: /normalizacion/reuniones
+
+Allow: /soluciones/formacion
+Allow: /soluciones/oi
+Allow: /soluciones/sistemadegestion
+Allow: /soluciones/productososervicios
+Allow: /soluciones/personas
+Allow: /soluciones/verificacion
+Allow: /soluciones/ensayos
+
+Allow: /novedades/noticias
+Allow: /novedades/articulos
+Allow: /novedades/podcast
+
+Allow: /tienda
+Allow: /tienda/catalogo/consulta-publica
+Allow: /tienda/revision-sistematica/catalogo/lista
+
+Allow: /internacional
+
+Allow: /busquedas
